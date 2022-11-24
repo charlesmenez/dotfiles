@@ -1,0 +1,10 @@
+---
+max_watch_history: 50
+server_url: "https://vid.puffyan.us"
+display_thumbnails: true
+env:
+  browser: firefox
+  terminal-emulator: alacritty -e
+  video-player: mpv
+  download_location: ~/Downloads/%(title)s.%(ext)s
+  youtube-downloader: yt-dlp

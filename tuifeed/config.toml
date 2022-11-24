@@ -1,0 +1,18 @@
+[sources]
+# Write here the sources you want to get the feed from following the example below
+Luke_Smith = "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA"
+Ciencia_Todo_Dia = "https://www.youtube.com/feeds/videos.xml?channel_id=UCn9Erjy00mpnWeLnRqhsA1g"
+DistroTube = "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg"
+LinusTechTips = "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw"
+EscolhaFatal_ResumindoFilmes = "https://www.youtube.com/feeds/videos.xml?channel_id=UCVIAJoREJByBv2IPGgRDwjA"
+MentalOutlaw = "https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA"
+ThePrimeagen = "https://www.youtube.com/feeds/videos.xml?channel_id=UC8ENHE5xdFSwx71u3fDH5Xw"
+CasualGamers = "https://www.youtube.com/feeds/videos.xml?channel_id=UCYnIfvhDpm_kOrRstVezRYQ"
+PeperaioHardware = "https://www.youtube.com/feeds/videos.xml?channel_id=UCyJfHnEgLnvrjQcPsR3UVeQ"
+DioLinux = "https://www.youtube.com/feeds/videos.xml?channel_id=UCEf5U1dB5a2e2S-XUlnhxSA"
+GaryExplains = "https://www.youtube.com/feeds/videos.xml?channel_id=UCRjSO-juFtngAeJGJRMdIZw"
+IncrivelCuriosidades = "https://www.youtube.com/feeds/videos.xml?channel_id=UCIQPHl1WKKTt9KkWyo_JNig"
+BrasaoDeArmars = "https://www.youtube.com/feeds/videos.xml?channel_id=UClg2quzZoQeV38Vx7JFACrA"
+PortaDosFundos = "https://www.youtube.com/feeds/videos.xml?channel_id=UCEWHPFNilsT0IfQfutVzsag"
+EtaPrime = "https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg"
+TheLinuxExperiment = "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw"
