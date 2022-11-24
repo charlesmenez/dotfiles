@@ -3,9 +3,6 @@
   <a href="https://www.gnu.org/licenses/gpl-3.0.pt-br.html" target="_blank">
     <img alt="License: GPL--3" src="https://img.shields.io/badge/License-GPL--3-yellow.svg" />
   </a>
-  <a href="https://twitter.com/_fuckthisheart" target="_blank">
-    <img alt="Twitter: \_fuckthisheart" src="https://img.shields.io/twitter/follow/\_fuckthisheart.svg?style=social" />
-  </a>
 </p>
 
 > some of my dotfiles
@@ -15,7 +12,7 @@
 👤 **Charles Menezes**
 
 * Website: charlesmenez.github.io
-* Twitter: [@_fuckthisheart](https://twitter.com/_fuckthisheart)
+* Twitter: [@_menezescomz](https://twitter.com/_menezescomz)
 * Github: [@charlesmenez](https://github.com/charlesmenez)
 
 ## Show your support
