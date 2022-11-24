@@ -11,7 +11,7 @@
 
 👤 **Charles Menezes**
 
-* Website: charlesmenez.github.io
+* Website: <a href=https://charlesmenez.github.io>TerminalPortifolio</a>
 * Twitter: [@_menezescomz](https://twitter.com/_menezescomz)
 * Github: [@charlesmenez](https://github.com/charlesmenez)
 
@@ -21,6 +21,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [Charles Menezes](https://github.com/charlesmenez).<br />
 This project is [GPL--3](https://www.gnu.org/licenses/gpl-3.0.pt-br.html) licensed.
 
