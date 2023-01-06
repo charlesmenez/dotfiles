@@ -11,10 +11,10 @@ lvim.builtin.bufferline.options.indicator_icon = nil
 lvim.builtin.bufferline.options.indicator = { style = "icon", icon = "▎" }
 -- general
 lvim.builtin.lualine.style = "default"
-lvim.builtin.lualine.options.theme = "tokyonight"
+lvim.builtin.lualine.options.theme = "gruvbox"
 lvim.log.level = "warn"
 lvim.format_on_save = true
-lvim.colorscheme = "tokyonight-moon"
+lvim.colorscheme = "habamax"
 -- to disable icons and use a minimalist setup, uncomment the following
 -- lvim.use_icons = false
 lvim.transparent_window = true
