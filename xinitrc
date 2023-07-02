@@ -8,7 +8,7 @@ sysmodmap=/etc/X11/xinit/Xmodmap
 # merge in defaults and keymaps
 wal -R &
 dwmblocks &
-picom -b &
+compton -b &
 setxkbmap br &
 if [ -f $sysresources ]; then
 
