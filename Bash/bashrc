@@ -6,7 +6,7 @@ esac
 
 # Path to your oh-my-bash installation.
 export OSH='/home/charles/.oh-my-bash'
-export EDITOR=/usr/bin/lvim
+export EDITOR=/usr/bin/nvim
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-bash is loaded.
 OSH_THEME="agnoster"
