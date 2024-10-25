@@ -37,9 +37,7 @@ if [ -f "$usermodmap" ]; then
 fi
 
 while :; do
-	ssh-agent dwm
+	ssh-agent dbus-launch --sh-syntax --exit-with-session dwm
+  ssh-agent xrandr -s 1366x768
 done
-# start some nice programs
-#exec dbus-launch --sh-syntax --exit-with-session awesome
-#exec dbus-launch --sh-syntax --exit-with-session dwm
 
